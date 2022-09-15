@@ -1,0 +1,22 @@
+body{
+    background-color: grey;
+    font-family: aquawax;
+}
+
+
+
+@font-face {
+    font-family: Gratis;
+    src: url(GRATIS.ttf);
+}
+
+@font-face {
+    font-family: aquawax;
+    src: url(BebasNeue-Regular.otf);
+}
+
+@font-face {
+    font-family: Haga;
+    src: url(Cocogoose\ Pro\ Thin\ Italic-trial.ttf);
+}
+
